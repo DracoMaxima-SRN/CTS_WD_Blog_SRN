@@ -1,0 +1,70 @@
+.Header-FavArtist{
+	font-size: 45px;
+	text-align: center;
+	font-weight: bold;
+	color: steelblue;
+}
+
+.img-resize{
+	height: 350px;
+	width: 350px;
+}
+
+.sub-header{
+	color: steelblue;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin-top: 15px;
+	margin-bottom: 0px;
+}
+
+.AOW{
+	border-top: 10px solid steelblue;
+	padding-top: 10px;
+}
+
+.song-list{
+	list-style-type: none
+}
+
+.album-list{
+	list-style-type: none
+}
+
+.page-link{
+	color: darkslategray;
+	text-decoration: none;
+	background-color: lightskyblue;
+}
+
+.div-links{
+	text-align: center;
+	background-color: lightcyan;
+	padding: 20px;
+}
+
+.sub-link{
+	text-align: center;
+}
+
+.about-him{
+	color: slateblue;
+	font-weight: bold;
+	font-size: 21px;
+	border-top: 1px solid black;
+	padding-top: 20px;
+}
+
+.about-quote{
+	color: slateblue;
+	font-weight: bold;
+	font-size: 21px;
+	padding: 20px;
+	border-bottom: 10px solid steelblue;
+}
+
+.div-about{	
+	background-color: mintcream
+}
+
+

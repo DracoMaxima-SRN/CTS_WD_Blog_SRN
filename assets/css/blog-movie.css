@@ -1,0 +1,78 @@
+.Header-FavMovies{
+	font-size: 45px;
+	text-align: center;
+	color: #ffad87;
+	font-weight: bold;
+}
+
+.sub-header{
+	color: #fa877f;
+	margin-top: 15px;
+	margin-bottom: 0px;
+	font-weight: bold;
+}
+
+.sub-header3{
+	color: #ffc7c7;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	font-weight: bold;
+}
+
+.about-hp{
+	margin-top: 15px;
+	margin-bottom: 15px;
+	color: #6c476e;
+}
+
+.div-genre{	
+	background-color: #dedef0
+}
+
+.about-genre{
+	color: #fa877f;
+	font-size: 20px;
+	border-top: 1px solid black;
+	padding-top: 20px;
+}
+
+.genre-quote{
+	color: #bd574e;
+	font-style: italic;
+	font-size: 21px;
+	padding: 20px;
+	border-bottom: 10px;
+}
+
+.movie-list{
+	font-weight: bold;
+	text-align: center;
+	list-style-type: none;
+	list-style-position: center;
+	border-top: 15px solid #f5cab3;
+	border-left: 15px solid #f5cab3;
+	border-right: 15px solid #f5cab3;
+}
+
+.img-resize{
+	height: 1100px;
+	width: 100%;
+	border-top: 10px solid coral;
+	border-bottom: 10px solid coral;
+}
+
+.div-links{
+	text-align: center;
+	background-color: #f5cab3;
+	padding: 15px;
+}
+
+.sub-link{
+	text-align: center;
+}
+
+.page-link{
+	color: coral;
+	text-decoration: none;
+	font-weight: bold;
+}
